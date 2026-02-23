@@ -6,11 +6,11 @@ Works as both a **user-installable app** (use it anywhere, even in servers where
 
 ## Features
 
-- 🖼️ **Right-click context menu** — Translate images directly from the Apps menu
-- 🌐 **80+ source languages** — Auto-detects the language on the image via EasyOCR
-- 🎯 **35+ target languages** — Set your preferred language with `/setlang`
-- ✏️ **In-place replacement** — Original text is replaced with translated text on the image
-- 👤 **User + Server install** — Install to your account or to a server
+- **Right-click context menu** — Translate images directly from the Apps menu
+- **80+ source languages** — Auto-detects the language on the image via EasyOCR
+- **35+ target languages** — Set your preferred language with `/setlang`
+- **In-place replacement** — Original text is replaced with translated text on the image
+- **User + Server install** — Install to your account or to a server
 
 ## Prerequisites
 
